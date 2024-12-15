@@ -33,7 +33,7 @@
 
 ## צריכים עזרה?
 אם נתקלתם בבעיה, יש לכם שאלה או הצעה לשיפור, נשמח לעזור!  
-פשוט פתחו ‏[Issue](https://github.com/il-developer/.github/issues) כאן בריפו שלנו, ואנו נטפל בכך בהקדם.
+פשוט פתחו ‏[Issue](https://github.com/il-developer/support/issues) כאן בריפו שלנו, ואנו נטפל בכך בהקדם.
 
 ---
 
